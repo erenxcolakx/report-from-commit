@@ -23,8 +23,8 @@ GitHub hesabınızdaki günlük commit'leri otomatik olarak analiz edip profesyo
 1. **Repository'yi klonla:**
 
    ```bash
-   git clone https://github.com/your-username/daily-commit-report.git
-   cd daily-commit-report
+   git clone https://github.com/erenxcolakx/report-from-commit.git
+   cd report-from-commit
    ```
 2. **Environment dosyasını oluştur:**
 
@@ -101,7 +101,7 @@ Payment servisi için temel altyapı kuruldu.
 ### Dosya Yapısı
 
 ```
-daily-commit-report/
+report-from-commit/
 ├── generate_daily_report.py   # Ana script
 ├── .env.example              # Environment template
 ├── .env                      # API key'ler (git'e commit edilmez)
@@ -132,7 +132,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 🐛 Sorun Bildirimi
 
-Herhangi bir sorunla karşılaştığınızda [Issues](https://github.com/your-username/daily-commit-report/issues) sayfasından bildirebilirsiniz.
+Herhangi bir sorunla karşılaştığınızda [Issues](https://github.com/erenxcolakx/report-from-commit/issues) sayfasından bildirebilirsiniz.
 
 ## 📞 İletişim
 
